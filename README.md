@@ -1,0 +1,1 @@
+## An npm module which replaces any plain text link within string with anchor tag

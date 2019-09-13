@@ -1,0 +1,24 @@
+{
+  "name": "convert-plain-text-into-links",
+  "version": "1.0.0",
+  "description": "An npm module which replaces any plain text link within string with anchor tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/skchawala/convert-plain-text-into-links.git"
+  },
+  "keywords": [
+    "string",
+    "links",
+    "anchor"
+  ],
+  "author": "satish kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skchawala/convert-plain-text-into-links/issues"
+  },
+  "homepage": "https://github.com/skchawala/convert-plain-text-into-links#readme"
+}
