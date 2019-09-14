@@ -1,6 +1,6 @@
 {
   "name": "convert-plain-text-into-links",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm module which replaces any plain text link within string with anchor tag",
   "main": "index.js",
   "scripts": {
