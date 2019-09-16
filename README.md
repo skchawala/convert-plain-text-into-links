@@ -1,3 +1,5 @@
+ https://www.npmjs.com/package/convert-plain-text-into-links
+
 ## An npm module which replaces any plain text link within string with anchor tag
 
 ### How to install 
